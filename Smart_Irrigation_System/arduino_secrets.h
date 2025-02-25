@@ -1,0 +1,3 @@
+#define SECRET_DEVICE_KEY "MZHeiP#eaGffDNkF?nUU@@8vr"
+#define SECRET_OPTIONAL_PASS "22622611"
+#define SECRET_SSID "Dialog 4G 788"
